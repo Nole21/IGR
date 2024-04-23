@@ -1,4 +1,5 @@
 # IGR: Implicit Geometric Regularization for Learning Shapes
+forked from source repo, only for personal use.
 <p align="center">
   <img src="IGR.png"/>
 </p>
